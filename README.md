@@ -22,3 +22,11 @@
   - embeddings: numerical representation of a piece of information (text, docs, images, pdf)
   - text splitter: when u need to load and operate with long pieces of information
   - vectorstores: store and index vector embeddings from NLP models to understand the meaning of the context (for more accurate results)
+
+## Databases
+- Pinecone, a fully managed vector database
+- Weaviate, an open-source vector search engine
+- Redis as a vector database
+- Qdrant, a vector search engine
+- Milvus, a vector database built for scalable similarity search
+- Chroma, an open-source embeddings store
