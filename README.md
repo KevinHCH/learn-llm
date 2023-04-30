@@ -1,6 +1,7 @@
 # RESOURCES TO LEARN AND UNDERSTAND LLM
 
 - video with the basic concepts: https://youtu.be/LbT1yp6quS8
+- blog/course: https://www.python-engineer.com/posts/langchain-crash-course/
 
 ## BASIC CONCEPTS
 - [blog example](https://www.python-engineer.com/posts/langchain-crash-course/)
